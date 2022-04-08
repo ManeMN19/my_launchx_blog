@@ -8,12 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://manemn19.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura en el desarrollo de software.</title>
       <link>https://manemn19.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <pubDate>Wed, 06 Apr 2022 20:58:21 -0600</pubDate>
       
       <guid>https://manemn19.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>Con este curso de BackEnd Mission de Launch X, espero:
+ Aprender JS con Node. Mejorar mis conocimientos en programación y lógica. Ver nuevas tecnologías Obtener nuevas experiencias. Enfrentar nuevos retos.  </description>
+    </item>
+    
+    <item>
+      <title>Mi ruta de aprendizaje.</title>
+      <link>https://manemn19.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 20:58:21 -0600</pubDate>
+      
+      <guid>https://manemn19.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Gracias a las misiones de Launch X he aprendido:
+ Empezando por el onboarding, aprendi sobre Python y Jupyter Notebook. Reafirme la lógica y estructura de programación. En la misión de FrontEnd:  Aprendí sobre un poco de VueJS. Practique mis conocimientos previos de HTML y CSS.    </description>
     </item>
     
   </channel>
