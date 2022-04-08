@@ -5,17 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Manuel Macias Navarro, tengo 30 años y soy Tester en una empresa de venta de Hosting y Dominios.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Estudíe Ing. en Computación en la Universidad de Gudadalajara.
+Mis hobbies son ver películas en el cine o plataformas de streaming; también ver series.
+Mi *comida favorita* es la carne en su jugo.
+Entré a Launch X para mejorar mis habilidades y conocimientos en programación y encontrar una oportunidad laborar mejor. 
